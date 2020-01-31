@@ -1,4 +1,10 @@
 This is the first file for github
 this is my first to learn git
 Hello World
+<<<<<<< HEAD
 this is for second testing 
+=======
+this is for testing
+let see another command 
+to check for other options as well
+>>>>>>> 4239904e4c318066a3230d944f53d2cd68d43eaf
